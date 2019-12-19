@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ramda": "^0.26.1",
+    "lodash": "^4.17.15",
     "seed-random": "^2.2.0"
   }
 }
